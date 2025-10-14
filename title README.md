@@ -29,3 +29,10 @@ ___
 > - **Portal puig**: [Puig Castellar](https://elpuig.xeill.net)  
 > - **Moodle puig**: [moodle](https://moodle.elpuig.xeill.net)
 > - **Fotografies de un dels meus dibuixos**: ![Un quadre que vaig fer en 4 d'ESO](https://github.com/user-attachments/assets/e9d06f55-53b3-47c6-8a5e-d5599281b2a1)
+
+___
+
+### 6 Tasques per a millor aquets treball
+- [x] Afegir una imatge d'un dibuix
+- [ ] Explicar a més nivell certs temes 
+- [ ] Aprobar la tasca  
